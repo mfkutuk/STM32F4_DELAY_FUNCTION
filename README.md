@@ -1,5 +1,5 @@
 # STM32F4_DELAY_FUNCTION
-You must adjust this on system_stm32f4xx.c 
+Make sure that you adjust it on the below. 
 
   PLL_M      8
 		PLL_Q      4
